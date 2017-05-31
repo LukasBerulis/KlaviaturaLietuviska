@@ -1,5 +1,5 @@
 # Lithuanian Keyboard
-Inspired by Google Keyboard
+Inspired by Google Keyboard  
 ![shift](http://i.imgur.com/TKMhcvO.png)
 ![qwerty](http://i.imgur.com/uf2zTMT.png)
 ![caps](http://i.imgur.com/tG4JrXx.png)
