@@ -63,7 +63,7 @@
         <Key android:codes="92" android:keyLabel="\\" />
         <Key android:codes="191" android:keyLabel="¿"/>
         <Key android:codes="-5" android:keyIcon="@drawable/backspace"
-                android:keyWidth="15%p" android:keyEdgeFlags="right"
+                android:keyWidth="15%" android:keyEdgeFlags="right"
                 android:isRepeatable="true"/>
     </Row>
     
